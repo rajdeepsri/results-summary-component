@@ -147,7 +147,7 @@ button:hover {
     background-color: #FFF6F5;
 }
 
-.reaction p:first-child {
+.reaction div p {
     color: #df6a6c;
 }
 
@@ -155,7 +155,7 @@ button:hover {
     background-color: #FFFBF2;
 }
 
-.memory p:first-child {
+.memory div p {
     color: #F4BA55;
 }
 
@@ -163,7 +163,7 @@ button:hover {
     background-color: #F2FBFA;
 }
 
-.verbal p:first-child {
+.verbal div p {
     color: #60AF9E;
 }
 
@@ -171,7 +171,7 @@ button:hover {
     background-color: #F3F3FD;
 }
 
-.visual p:first-child {
+.visual div p {
     color: #242D95;
 }
 
