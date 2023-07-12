@@ -15,7 +15,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-
 }
 
 section {
@@ -128,6 +127,16 @@ button:hover {
     padding: 0.7rem;
     font-size: 0.8rem;
     font-weight: 500;
+}
+
+.bars div {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.bars img {
+    width: 0.8rem;
 }
 
 .bars span {
